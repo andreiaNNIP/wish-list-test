@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 12:45:38</sys_created_on>
+        <sys_id>eb23a4071b700110943555f0604bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_wish_item.user_wish_list</sys_name>
+        <sys_package display_value="Wish List Global" source="976264031b700110943555f0604bcb5d">976264031b700110943555f0604bcb5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List Global">976264031b700110943555f0604bcb5d</sys_scope>
+        <sys_security_acl display_value="u_wish_item">6323a4071b700110943555f0604bcbbc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eb23a4071b700110943555f0604bcbbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 12:45:38</sys_updated_on>
+        <sys_user_role display_value="user_wish_list" name="user_wish_list">1772a8c31b700110943555f0604bcbea</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
